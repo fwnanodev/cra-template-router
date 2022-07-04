@@ -1,21 +1,25 @@
 import { Link } from "react-router-dom";
+import {
+  ROOT_COMPONENT_NAME,
+  ROOT_COMPONENT_ROUTE,
+  SECOND_COMPONENT_NAME,
+  SECOND_COMPONENT_ROUTE,
+} from "../route-constants";
 
 const Layout = ({ children }) => {
   return (
     <div>
-      <h1>
-        Layout
-      </h1>
+      <h1>Layout</h1>
 
       <nav>
-        <Link to="/">go to PageA (/)</Link>
+        <Link to={`${ROOT_COMPONENT_ROUTE}`}>{`${ROOT_COMPONENT_NAME}`}</Link>
         <br />
-        <Link to="/page-b">go to PageB (/page-b)</Link>
+        <Link to={`${SECOND_COMPONENT_ROUTE}`}>{`${SECOND_COMPONENT_NAME}`}</Link>
       </nav>
 
       {children}
     </div>
   );
-}
+};
 
 export default Layout;
