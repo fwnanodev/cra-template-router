@@ -1,8 +1,9 @@
-# cra-template
+# cra-template-fwnd-router
 
-This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
+This [cra-template-fwnd-router](https://github.com/fwnanodev/cra-template-fwnd-router) js template is based off [create-react-app](https://github.com/facebook/create-react-app) that has react-router-dom v6 setup already and is mainly used for our Azure static web app creation script.
 
-If you don't specify a template (for example, `--template typescript`), this template will be used by default.
+You can manually download it and use it by specifying:\
+`npx create-react-app my-custom-template-project --template file:path/to/cra-template-fwnd-router`
 
 For more information, please refer to:
 
