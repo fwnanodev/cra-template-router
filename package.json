@@ -1,5 +1,5 @@
 {
-  "name": "@fwnanodev/cra-template-fwnd-router",
+  "name": "@fwnanodev/cra-template-router",
   "version": "1.0.0",
   "description": "A custom create-react-app template with react-router-dom v6 set up",
   "license": "MIT",
