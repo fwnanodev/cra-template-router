@@ -5,9 +5,7 @@ This [cra-template-fwnd-router](https://github.com/fwnanodev/cra-template-fwnd-r
 ## Usage
 
 You can use it by specifying:\
-`npx create-react-app my-custom-template-project --template fwnd-router`\
-You can also manually download it and use it by specifying:\
-`npx create-react-app my-custom-template-project --template file:path/to/cra-template-fwnd-router`
+`npx create-react-app my-custom-template-project --template @fwnanodev/router`
 
 ## Configuration
 
