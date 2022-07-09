@@ -19,5 +19,8 @@
   },
   "engines": {
     "node": ">=14"
+  },
+  "dependencies": {
+    "react-router-dom": "6.x.x"
   }
 }
