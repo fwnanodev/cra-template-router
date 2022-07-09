@@ -1,13 +1,11 @@
-# cra-template-fwnd-router
+# @fwnanodev/cra-template-router
 
-This [cra-template-fwnd-router](https://github.com/fwnanodev/cra-template-fwnd-router) template is based off [cra-template](https://www.npmjs.com/package/cra-template) that has react-router-dom v6 set up already with 5 pre-routed pages plus a Layout.jsx. It is mainly used for our Azure static web app creation script.
+This [@fwnanodev/cra-template-router](https://github.com/fwnanodev/cra-template-fwnd-router) template is based off [cra-template](https://www.npmjs.com/package/cra-template) that has react-router-dom v6 set up already with 5 pre-routed pages plus a Layout.jsx. It is mainly used for our Azure static web app creation script. You can find it in [npmjs package feed](https://www.npmjs.com/package/@fwnanodev/cra-template-router).
 
 ## Usage
 
 You can use it by specifying:\
-`npx create-react-app my-custom-template-project --template fwnd-router`\
-You can also manually download it and use it by specifying:\
-`npx create-react-app my-custom-template-project --template file:path/to/cra-template-fwnd-router`
+`npx create-react-app my-custom-template-project --template @fwnanodev/router`
 
 ## Configuration
 
