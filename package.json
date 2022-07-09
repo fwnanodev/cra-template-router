@@ -1,6 +1,6 @@
 {
   "name": "@fwnanodev/cra-template-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom create-react-app template with react-router-dom v6 set up",
   "license": "MIT",
   "keywords": [
